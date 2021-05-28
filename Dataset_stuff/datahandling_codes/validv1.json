@@ -1,0 +1,2747 @@
+{
+    "name": "validv1",
+    "description": "",
+    "created_at": "2021-04-28 16:49:41.797216+00:00",
+    "dataset": {
+        "name": "Lateblight_leaf_valid",
+        "description": "",
+        "category": "Agriculture",
+        "created_at": "2021-04-27 12:07:14.892006+00:00",
+        "owner": "sumodkth",
+        "task_type": "segmentation-bitmap",
+        "task_attributes": {
+            "format_version": "0.1",
+            "categories": [
+                {
+                    "name": "object",
+                    "id": 0
+                }
+            ]
+        },
+        "tasks": {
+            "ground-truth": {
+                "description": "",
+                "task_type": "segmentation-bitmap",
+                "attributes": {
+                    "format_version": "0.1",
+                    "categories": [
+                        {
+                            "name": "object",
+                            "id": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "labelsets": [
+            {
+                "name": "ground-truth",
+                "description": "",
+                "is_groundtruth": true,
+                "created_at": "2021-04-27 12:07:14.895305+00:00"
+            }
+        ],
+        "samples": [
+            {
+                "uuid": "e6eed3d2-cba7-497f-bf26-01a10cbde30e",
+                "name": "86323439-ca8d-4819-ae81-800e50f85770___RS_LB 2826.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a72e8c95-c65b-4160-a971-ce9670aef7b6.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/4a26bc9a-8e45-428b-828c-b9aa827c0521.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "1e11e593-fc59-412a-b4e0-a3627271fe60",
+                "name": "87681326-2843-4e63-9042-602b08a98a66___RS_LB 4145.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6a3b911a-1f71-41e6-b8cc-2ff6d4c9456b.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/75605da4-c381-4725-979d-1161a3d22e71.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "d219dfad-bced-45f6-a9c8-b1073e803a75",
+                "name": "93905331-a3b3-43dd-8596-d8f7e6b3e88f___RS_LB 3306.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ff4686d2-e6f1-45ed-8edb-59b9e35b111a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b725d2d8-f685-46f9-82b1-3af416e42eae.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "3484ef53-5dd3-481b-b543-130796e4e7c7",
+                "name": "86944800-4984-44f9-9c72-53fcb7324a3b___RS_LB 4015.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/9265f7d7-51cb-47a7-8e0e-ef2f34969fa3.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/13913937-0dfd-4fbd-a71a-e3b5cc68163f.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "35d973fa-9925-4f2b-a0df-a396ee5a24f5",
+                "name": "a1f3508d-496b-4dd5-a820-d30acafd7d9b___RS_LB 2970.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/166d67b4-8f5d-4bca-a91e-e41866861adf.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/bfb8035d-93fc-409d-b34f-a273a0c44dbd.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "d27ed5db-2473-4ccf-b787-3315c7482722",
+                "name": "a0c129b8-4fb3-406d-b2f6-1309fec50c70___RS_LB 5139.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/2625a0e6-ecde-41ff-b7ef-3b8898e3f556.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/176be16c-7dca-4565-9009-81cca5bf10f2.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "10aa7b12-3c6b-472e-af9a-02cb6f645b56",
+                "name": "a2b27b82-4459-4dcb-a065-92a75f3c9c4b___RS_LB 5018.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/242005b8-3d2b-4119-a39e-fb80c1dae569.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/eacfb175-07b2-45f3-b05c-81f71d3d7958.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "a3359c0c-0359-4f82-8a41-7e764a0cd08b",
+                "name": "a3e80876-49cd-4856-9253-8df14fc36dcd___RS_LB 3851.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/de2d5470-acda-45b1-add7-04120e1651df.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a179eab4-114c-4708-a6d5-ac58cf3bacf4.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "cbe807eb-bbec-4d82-b51b-b1577e89f852",
+                "name": "a5a6ebeb-2535-441d-acf5-33bce305fa14___RS_LB 3304.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a160353c-7c3e-4a19-bad5-13821dceac49.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/13d208cd-e89c-4853-8399-c6c0d27099c5.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "862860bb-9abc-48ee-a0ca-9ba54991aaa3",
+                "name": "a5aabda7-209a-4e1e-966c-de2a1ccc7869___RS_LB 5046.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/8246cf6e-8dcd-421e-9276-8ff12fa7877f.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ddfd0da3-fd33-4862-bded-56688efb731b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "e7cfa814-3c74-439a-b3b1-97e22ac30140",
+                "name": "a6f75dd1-c290-4116-be6a-e3c94e40aa2a___RS_LB 3265.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/16e3e432-996d-4e03-8e27-1a1651e07cbd.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/12d403be-8092-469e-a453-e87c34e4a26a.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "fade9b96-3f77-4642-92be-45884f1a95fb",
+                "name": "a7dad20a-b0c0-408b-a961-17928319e17f___RS_LB 4645.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/968be03d-246b-40d6-b0a0-370cbe5f190c.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/843228f3-9823-4b3a-8460-da3551616553.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "7e9ca4fa-738c-4468-a2d3-566b9f29d448",
+                "name": "a7dc8b54-5e4a-4055-ae98-eba4268cf966___RS_LB 5243.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/0e0ed4ef-e066-496d-8be6-929f5b81d103.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/68f1f919-26d2-49bd-8df9-c322a192a765.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "845b91e4-3415-49a4-bcd9-4c52774ce4be",
+                "name": "a8db407c-12cb-460c-991a-8f60d20c06bc___RS_LB 5117.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ecfb9a3c-dad3-4a59-abff-adad4355c9ce.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/cddc9198-73d2-49bd-ba9d-406dd0a7acd5.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "ce165ae0-4272-4cbd-8a0e-cc396aba69b7",
+                "name": "a9c8a264-33be-48f1-bd1d-2cc6c9c8e247___RS_LB 4888.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b15b8272-d400-45ef-aa8d-c127ad07b7ee.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a319ac89-56c8-459f-99d4-159f1b354b67.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "4e67fed4-9f18-49f6-b756-28bd25f05d72",
+                "name": "a9d4290d-55a1-4a8d-83a8-5277a00e5fbc___RS_LB 4076.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/bfbf60e4-dd65-4d94-af26-76a5e8bd3abc.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/5fec16d2-6cb4-4a7a-bca5-856e7ea18b7b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "363adce7-1230-4dd5-9769-7ac2bcb27c0c",
+                "name": "a33c54fb-6b78-4235-b34e-42f85f6bc5b8___RS_LB 5060.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/0325b16e-7ebb-419b-b0df-8ba5014846c6.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a85c836e-9ed2-4ac2-a748-020842158674.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "fcf77341-dfc9-4411-8698-dbed60e90b4f",
+                "name": "a30baff1-96fb-4df5-9511-e131359b5fd8___RS_LB 4464.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/5eb98543-3380-46e4-bad0-964b8263350f.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d726e0e2-e626-4010-ac45-9cdc2e0e0e0b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "5b4dce20-1a5a-4bfe-8e12-e85376975610",
+                "name": "a10d340a-b35c-4310-be59-caa58bb0d500___RS_LB 5154.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/e3827d3f-60f2-4cb5-aa29-6b5f419d9216.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6e69d8c9-e694-4709-82d5-e04e902844e0.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "25e89a49-6d7c-4aea-a57a-7ae1d57b28d0",
+                "name": "a34d3777-22c7-4723-8b85-f766e042c121___RS_LB 4375.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6962398a-84b0-466c-bf2c-59831a644933.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d4cae2ea-8775-43ad-b1de-2ac74ca55b0d.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "a09ffc58-5dc1-42d8-a3c2-86e9d25e82b7",
+                "name": "a74a91d8-1a9d-4fa8-bc4b-26a32635a84d___RS_LB 3840.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/cf23a46b-f72d-4389-addb-3d445f890e0a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/dc5bc737-a6cb-453b-9a78-87f839487610.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "b0c4924c-01be-4fcc-adfb-0f313ef85076",
+                "name": "a69b634c-1bb1-4098-9da0-8393f9b8d6e1___RS_LB 5120.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/e9e48ab3-ee1e-4a53-80df-40557a6147cf.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ea9de5e3-db87-4887-945b-365e05faef0c.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "d1cd8be5-3bae-4cb3-a2e4-2089408fcc64",
+                "name": "a84f32fc-ec8a-42e9-9f43-9efcf6493199___RS_LB 4884.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c62eb012-8e85-45cd-b46f-b6f61f40b6b7.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d7eadb49-88b4-40d3-8408-9097d8b64e32.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "2891fd83-9d5e-4d08-aea2-75517f2b0fa0",
+                "name": "a88a6388-09fa-4cfc-a82e-94d5fd3b4972___RS_LB 2748.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6a1cfa62-dba3-4c18-9fbc-b8f6392d1eb4.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ef55cd76-72c9-4034-bfa5-30344a4161b9.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "15d2766d-d8a8-4aa5-b06a-c10c3444f50f",
+                "name": "a343cad1-3b4d-4761-b222-d0bbc0f4bdc0___RS_LB 2569.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ee1f0a8d-d0ad-4b3a-bf71-443f63449080.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6afbcaed-7500-41f0-ae73-7909fee3b8bf.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "e5c20932-217a-49a7-94d9-f525e047b27a",
+                "name": "a838f0ba-745a-4c0b-9895-f3349a6cee4a___RS_LB 4959.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/eb350554-b3fd-4531-9cb0-b8f6081da419.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/8dba6527-05c3-4355-a897-51a5e0d00e23.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "5563cc4b-ed36-4a3c-9db3-e0443a40538f",
+                "name": "a904edc1-4c4d-4171-a46e-ae914010884b___RS_LB 4373.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/83973845-8e39-48c9-93f9-1be49999155e.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b34052e5-2fe3-43e9-9897-1bd11a64a527.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "a0c1e0ad-de25-40c6-9093-68a8060559d7",
+                "name": "a3389c1f-d888-430d-bcf7-a546247ad6d2___RS_LB 3092.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1ed76ac1-7f75-48d2-9cd6-4a85009e570b.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/33c9e212-f30f-4031-9182-0c146ab56dad.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "0c7f04ed-f9c6-4a7a-8aba-a622f9545dce",
+                "name": "a5028ead-ac95-4a90-89cb-aaac512d502a___RS_LB 3957.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/0a5cba0e-fc59-4a31-bd58-118dd9f80b82.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/3fefa985-d754-473d-89eb-76aff42550f0.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "9fa2b32f-20e2-4d4d-8f99-b52932c7281e",
+                "name": "a221647c-0dda-468b-93f9-81f50b14ff81___RS_LB 3942.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/0a77a31c-3706-426d-bf48-a7c547720054.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/97165a58-f4f3-47bf-8ac2-e76542f9eb49.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "fc3d38a0-6cfd-4802-840c-af8edd16e204",
+                "name": "a440233c-0ef8-408f-8ebb-1c12e8bc4464___RS_LB 4768.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b80ec6f4-bdbf-4bbb-87c7-4c00fdc5f1ad.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/68eb4571-9cc0-49a0-a612-7ba88821274f.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "c237b2c0-adab-42ea-8fde-e1f333079efe",
+                "name": "aa58c1c8-82a1-4e68-9ecb-3cd47341d09b___RS_LB 4331.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f18e5a63-a95b-469d-a0b2-5408797f5f7a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b67eabfe-e9cb-49a8-aea6-539bf091540f.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "97280b31-1407-4d5f-ab0a-4648a535fa6f",
+                "name": "a6623827-bcdc-40ed-81e6-5cde1a1da997___RS_LB 3179.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1bf26b36-3c55-482a-86df-f860261f9142.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/9f124d4b-0809-4f69-a6cd-a6f128f11bbc.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "b933c90c-ef69-4478-862f-81da3e7b79be",
+                "name": "aa246de3-c183-4133-b4a9-2eba3fe3ae56___RS_LB 2951.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/5fe2bb80-e1cd-4c3a-83dd-580238e12bba.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/9fbef51c-17d9-4d6d-acbc-83898c42c6de.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "aa8610a1-d3a1-471f-831b-c7436464c68d",
+                "name": "ab9b15fb-d4cc-4d67-a5bb-8b88f066c1db___RS_LB 4825.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/044b826e-84f9-4de7-adb4-69f81970a592.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/0ae68df2-c3d6-408b-8d3a-f99588d29c9a.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "f6e136c8-5882-41fb-a63d-3d42cadae8fd",
+                "name": "ac35ccac-2c52-4af5-b0e3-3325f45e2c97___RS_LB 2749.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/49bc3d01-97ef-4b0f-811c-3736b41e61d0.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f8b1baf5-64e6-442d-86b8-42441d3cc09c.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "ca19bdfd-efb4-4c00-900f-bf824774b1fd",
+                "name": "ab72ec63-290e-4e95-ab0a-b551ed44ab3b___RS_LB 3286.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a55076da-7a4a-4e13-889d-c5bba48d0289.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/fe5fff6e-5636-48c3-bf10-860002c9aa01.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "d0e3611c-6e16-4600-807e-461d860ab23a",
+                "name": "ac42817b-71f9-4336-ad8b-bdfb4b27a64a___RS_LB 4782.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c5346fe4-6b06-4ac3-8fcd-9feae1a85120.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/34f2901c-f1c1-4073-9b74-15524c0e1799.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "286f1b04-70b5-4d8a-be24-043bf432000c",
+                "name": "aceeb511-1332-4d25-b9fe-64d53445396a___RS_LB 4837.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6a095579-21e3-4ebc-867d-9761deebb54e.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/532d1703-666e-43f3-81bf-2fc0e3dfaabd.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "4cadbe5c-6d20-4299-91a8-5c3e3c9f6ffc",
+                "name": "acf05b32-0d7e-423c-96b2-f78b6fdf975d___RS_LB 5309.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/45d8db72-26c5-4493-be8e-3cc9898d2b63.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/8e03f3e9-a283-461a-8b15-02a0c0923038.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "63765e64-6743-49c5-9ec7-a0d652f8657f",
+                "name": "ae5b08fa-25b7-4006-8b1b-2415356b3847___RS_LB 5453.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f6f1b391-ce1f-4606-b09d-b360b25ac90a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c017718a-1af8-4495-b53f-9f0145ecec8e.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "c59f78d1-face-415f-b063-2eb14f2b2bc0",
+                "name": "ae9e4c46-171c-460c-a37f-ddf13c260411___RS_LB 4961.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/9fc73abd-4c19-426f-9c6a-8cf0f676d730.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/9b0c5100-5e1f-42c0-967b-e05a1c2798b1.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "72d204c8-d1b0-4f36-99c1-aa313b17237b",
+                "name": "ae20cc4e-fe37-48f0-9566-2d2efc5afd38___RS_LB 4290.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/31aad114-d3c1-4896-b6fc-9951d327c81c.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/4ed95f3f-3f5e-42d2-a8a4-302037602db6.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "059982a6-49b2-4a51-8b5e-c46cdc5f274e",
+                "name": "ae52f85f-bce0-4fb9-a109-009e099a72e6___RS_LB 4972.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/87fac8e4-ce5f-4ea3-84bd-fb3182c493c5.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/0d5cb82c-eb87-4258-9711-3cef7d3266f6.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "390d6482-4eb2-49a3-8e39-e0efb46fb777",
+                "name": "ae966e38-73b3-47c1-9421-20ac2f570f46___RS_LB 3240.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d3616d19-6fc3-40bd-be4e-5e4c0f17b516.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b3cab3c9-c764-42f9-8b54-b96a6b6998d8.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "0fb0c2a1-483a-4314-9cf9-0b70f78f0922",
+                "name": "ae805316-66e9-4aaf-b938-8460734b90ec___RS_LB 3004.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/51d5a1f4-c6c4-4676-9d81-2c10c29009be.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/65c68b16-18e9-41a1-a44e-274c1bab2de6.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "c05eb10d-dac3-4b70-8e63-08e364c66fe6",
+                "name": "aec94baf-a0e8-43af-80af-4bab46d84ad8___RS_LB 5100.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/192e2bb6-3df1-478d-89c2-2d8ab47d2bf0.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/8a2a0d67-4d86-4427-8961-c85e2663d34b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "d39b3fdc-4384-433d-9c52-e86dcc4827ea",
+                "name": "af17b876-b0e7-43ce-95e8-8591066dfdc9___RS_LB 3976.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/7b40f9e0-fc4a-487d-8e67-09c1380d8202.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f81d093a-5cea-471e-b12e-3877fa5eb6af.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "0d6aaf45-19b6-45fe-9443-3c0875cf0c18",
+                "name": "afc0f88e-8a22-44d1-8575-8945058360c7___RS_LB 4895.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/5b6b751d-de25-4257-8d86-335ff62b19f7.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/59878458-d5e0-4e55-bc3b-185b3f20865b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "f481d2d0-36bd-47e8-ae91-38602277829e",
+                "name": "afcad9ca-9bd2-4c7b-b034-2b3d0360ac30___RS_LB 2741.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b7b6bfcd-fb24-4bbc-9b6e-e69593973206.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/2daf5162-0768-445f-ac1b-0e435651fe54.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "dd3607b8-a2fa-45cf-a523-1f61dee875b1",
+                "name": "b0db9fbb-ff7f-4b5c-901c-19c7797c1d4a___RS_LB 2969.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b5436eae-dbe4-4a2c-8434-5cfc09897232.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ecdaeaaa-59cb-4452-9288-e52ef8c7c68d.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "317d87bf-60de-42dd-9d0e-8fd8b9e9bab2",
+                "name": "b0eebb8f-c322-4b56-8897-2cc98d474440___RS_LB 5286.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/936e5ad1-1f60-4a78-b4f2-5f0efa6a294b.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b5602a56-804e-4946-bb74-ae0e85bf6558.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "ff4424a2-e101-426e-871e-d4cb1afb7999",
+                "name": "b3e1ec14-6de4-4afc-9ceb-254469c8ce15___RS_LB 3910.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b0607c9b-cfca-4e4c-a9b4-5a54f00fe61d.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/4091a61d-c9c9-4212-9a71-0b933f386bb2.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "06816dc3-d0c1-4f9a-93c2-75069708ccf5",
+                "name": "b4adb8c4-2cea-4027-b0fd-528406b14c86___RS_LB 4066.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/faa455e4-8121-495c-959a-c9c72dd5201e.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/3f920cd5-8e5d-438f-bda5-16b84fa81152.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "ff30dd5b-94b3-4e65-8e6f-acac301a5838",
+                "name": "b5f127d1-1b1a-4baa-9158-58cf4b679990___RS_LB 4488.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/3957596b-f106-4468-8577-743d76aa9754.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c5877c99-4673-4213-b07b-32e5fefff174.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "440a2b1a-c273-4b9e-b091-d627b6d214cc",
+                "name": "b6ad95ed-8f05-42a1-ac35-581696454497___RS_LB 3855.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b0a53a5e-5c96-45f3-9975-8a9285c13e04.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6b6304f8-107f-4eae-b493-513a2590b7f0.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "3297837c-eb64-45e8-aca1-403e15e5bf22",
+                "name": "b6b937ed-f629-4136-8d5a-38b734f7f662___RS_LB 4595.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/10b4f7f5-e24f-4535-a9ec-03041d461c9a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1f04c709-c3bf-4f44-a08e-09a5b71645cb.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "5f041ee2-79f6-4672-9cc3-32c68fb04979",
+                "name": "b8b4064f-208a-46f9-b13e-5096fdbdb429___RS_LB 2591.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/3f795b03-bbe7-49b3-9456-511c7f1aedf4.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1abb39b2-24a9-43b8-b030-cd627cb84e8c.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "7ea7cff8-45c0-4549-a0b0-4635d3c1d78d",
+                "name": "b9aecfc3-98d5-467a-8773-ee2905918c71___RS_LB 5161.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/47e3a3fb-b4b3-4308-8179-836eefd73b93.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c631cb10-2142-4ffd-a741-857d7b6cdb75.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "93b14371-3cb1-44dc-b9e0-7cf7289fa1bc",
+                "name": "b9cde1e2-71f8-46a2-9fa4-0bfc7d16815f___RS_LB 2610.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ce759e5d-0cf9-4bd6-9319-48db18482c59.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f712740d-73e3-4b27-a420-e02929bf1169.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "65247861-57a2-48ea-a1fe-c59a03d75153",
+                "name": "b14b93eb-5c1b-4df8-a30f-17afd953e7fc___RS_LB 4101.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1490056c-aec0-4db4-b86e-c89edd35079a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/7c8132d7-4e6a-46d8-a552-9f7cdce43b2e.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "7f6fd46e-c873-43a2-baac-03b2a85c8895",
+                "name": "b57c6336-3be6-4021-b240-8547da86d218___RS_LB 5007.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b8120abf-3dd5-47d2-8fb7-8c1b6e0c270e.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f00627bc-199d-4b62-aca1-37f0995cadeb.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "ec8d87af-f057-4135-8319-92faea9331b6",
+                "name": "b59e4b5d-4ef0-4b8f-a111-ee745e3d0334___RS_LB 4891.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/0d26888a-7171-4bdc-82fa-1d32519875ec.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/010c9625-522a-4f85-910e-5847ef672c33.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "74cee530-434c-4b70-b261-ec726fbc1c10",
+                "name": "b65fddcf-cc40-4632-a0c4-70fff2f68009___RS_LB 4481.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/dc099b0f-5579-4f0b-877e-9a2def8baeef.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/aa9ec204-ffac-4c17-b4fa-0a5b8ecdbcee.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "afa58e45-bd20-4914-a670-1e93e01a84a4",
+                "name": "b69f17e7-b4e1-4911-91e4-01976bacba2d___RS_LB 5053.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/e7f49826-930c-4a8f-baa5-3e22340c768b.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f766181b-d8cf-4715-ba59-cc915adaefc8.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "4d104d3b-e71a-45da-8296-42b0f0612f0d",
+                "name": "b74d0fd1-9af7-4053-8538-ee937236a64d___RS_LB 4918.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/57c7fb5a-d713-4d9c-aa9a-302f24d1ad12.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1fcbf5de-717b-473f-b831-60767eff1904.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "94714dd1-9d8c-429c-bf2a-9b17497742e3",
+                "name": "b101bc59-5734-4c39-896f-de29d98b1dce___RS_LB 4702.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/62d36f41-d571-4946-8bb3-35b416e74e10.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/8d081b23-ad8f-4372-9818-5896fd559945.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "396de1f5-3441-4396-ac87-916c5de8f21b",
+                "name": "b167bd40-798f-4e70-a735-f191350dd057___RS_LB 4017.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/9acd022d-ab76-4ff4-a87e-7235ef8b2702.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/65c5eb8f-7e80-4575-b790-2ada081575a3.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "701d659d-cf83-4b2a-83d7-634bc7cc9787",
+                "name": "b340ff00-3d44-4394-90c5-797dc39f8389___RS_LB 4953.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/2cbb53ac-d787-4f8b-b013-22b7086cefae.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f0db189a-5221-4c9f-aff4-d250b21123e4.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "0838a6c9-2029-423e-ac42-53fcc2f562f8",
+                "name": "b367b969-aec9-4555-9ea2-0a982b38be62___RS_LB 4682.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/22064a0b-e815-4d60-8a81-128de6b568e3.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ac674eb1-9f29-4bd9-8789-d3ff84227aaf.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "bd061bc2-07e1-4203-a9bb-93a5f0ce0885",
+                "name": "b469e38c-ef99-4ed1-b294-1e65727138fb___RS_LB 4056.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/40c4ee90-b627-4089-a83e-5c18c3a60050.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/54e46a81-1807-44aa-9e03-976ef5967070.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "cb2439eb-67ae-44f7-a53f-86f5916c1719",
+                "name": "b598f9a7-b582-4fef-9c3d-cc985f2f9c03___RS_LB 3294.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/37156c97-bf23-4124-b605-f0fa7c5604cd.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ff8a41df-2562-4831-8eb3-dfe41ac5220e.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "c7d234b1-6b66-40d2-8be5-a6cb0e6e718b",
+                "name": "b811c2af-734e-4689-aa43-4ab1d4faec32___RS_LB 4719.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/97858598-f0e1-4905-ac13-d79744bfe803.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/766e2ee5-f3b5-40d4-93cd-ff3704ae27ca.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "6a9fc6cb-981f-4fc9-a368-fe96534b8e23",
+                "name": "b2492a9e-c038-48a7-8524-8f0aca7dc870___RS_LB 4291.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6037f624-ff3d-46fa-9f7f-e37f11a792e2.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/440b3359-510a-465c-b40f-70470056f7ad.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "54b25be3-3173-4020-a94a-81624cf70a5a",
+                "name": "84182903-22be-4563-8276-d72413958ada___RS_LB 4027.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/aff6e9bf-b981-4e76-bf50-055b8fa5d37d.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/4f2822a0-6977-4cfd-b03d-5cc730ed9c0b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "e2a70acd-ddd9-4811-9686-d7fdc9ca0b94",
+                "name": "99064106-3789-4de4-b109-ebc83a20d94b___RS_LB 2757.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/f995e978-0c53-4918-8976-5c9bf063229f.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c6a53b84-f08c-4935-ad91-587acca332dd.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "ffc14d07-51e6-487c-ac1d-de23a2739cc6",
+                "name": "a0622f86-c94d-4b59-9483-68c57dee81fa___RS_LB 4794.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a366366c-8850-4009-bfd2-f83de7761d26.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d20a9a67-514d-446d-a770-cf5791a639d1.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "654f0e87-bd8b-4fde-ac54-03e84486f2f8",
+                "name": "a1523281-33d2-4cc4-910a-3d614a4cd085___RS_LB 2816.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/15c8e018-e45c-4e7e-a00c-427aede8c057.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/85f39540-7ab2-4475-8302-78dfd10ecdfd.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "e462d9c0-9a9b-4f14-a39c-e2535e114938",
+                "name": "a24f3bec-3fbb-461a-81ef-ab791ceb66e2___RS_LB 4818.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/4f274e9c-5653-4d22-8a80-b0580a472bbe.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/e3a3bdda-4a61-4478-9677-cd5cdb1b3505.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "dd97d472-ce68-4ba6-9ebb-c8ffeb036841",
+                "name": "a3bf27ee-b4ec-4f72-a25b-9d47b4cd100d___RS_LB 2889.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/073a8973-b659-4b1d-95c8-d3ecf42ac650.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/2ed4f8db-830b-433f-9cdd-e1462481545f.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "21fde93b-97fd-48ce-92ce-2e43fac4fbcc",
+                "name": "a4534f9b-87ca-4ce0-a6f8-84f94544ef37___RS_LB 2775.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/5c110162-a47f-49b8-af78-a9aa3b56674a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c1ab045b-ac05-4ed2-af07-c48caa23460b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "099ef959-b11a-426f-b277-debbfe718de2",
+                "name": "a6b27bfe-0e60-4984-98ca-af4b2316dfff___RS_LB 3881.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/3947ce8a-3564-4987-a0e6-67c3acaabedc.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/4ae1d98a-3729-4f1b-b9ba-124a20c5e744.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "40ecb78e-3343-42d1-82fc-15cb3a20bba5",
+                "name": "a7097c51-bb53-4149-8140-4b9c3d94dbd4___RS_LB 4108.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/4e36e685-9399-4dad-bbe6-59dff0aceaf7.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/90339e6f-187d-4b70-93cc-3e3d1fb7887c.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "c1df6191-447b-4f5f-9e63-6ee4e35fb1fa",
+                "name": "a896e0bb-67a4-4762-b74a-1c58b14622b0___RS_LB 5013.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/00b92d69-1694-4d12-96df-1df3a7b75e4a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b53596fb-2fd3-4a89-9042-2ae4264e03fb.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "106cec43-bf5f-4b5f-aa47-4deff9839489",
+                "name": "a8f16f61-a090-4b29-9569-5e7d0e17fda5___RS_LB 4460.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/960da9e6-b39b-4956-a5e6-553968871775.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d27218c2-d83c-4848-9df4-65a1c126713c.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "f25ff535-bac4-4e1d-8cd0-7fb0013e82e2",
+                "name": "aaf6fed2-0c7d-47b5-99df-bb6950092fe5___RS_LB 2723.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/3c2a4255-18be-4df5-a5da-31d953354591.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/7a6df705-270e-4bbc-b870-78b5dc83e3dc.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "36ff7fb4-3174-4679-83a9-cdaa3f0b86db",
+                "name": "acd7a42b-15eb-40e4-823c-49eff6b4e95e___RS_LB 4636.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/dadad097-b8e0-4bee-9c34-be27c0d7d0a7.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/16d0b66e-7a83-4391-9a2d-0d224f8e0493.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "5ecad0be-8bd1-4de7-85bf-017e1557fd06",
+                "name": "ad2396a9-306e-4ca9-88dc-56b2bde77c6b___RS_LB 2755.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ad3dcd7c-5446-49ee-b140-c3fa6b180bd0.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/58a86b4e-3a90-4329-9e7c-8d5cbbdf78f9.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "dc7e8385-adb2-476d-b06d-bd0f8791c706",
+                "name": "ad628434-32ce-4365-90b0-f394d98fbe00___RS_LB 4905.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/6674b8fe-6c8b-4cd5-aece-7a2c8af64b88.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/bd5f20c1-b84c-4924-b1b7-388a6e5e9114.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "7ca594e0-dc2a-4e9c-a3cf-c4f0c8c75c77",
+                "name": "ae80781d-725e-486e-9677-4149b0d751ef___RS_LB 5442.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ef579851-02f7-4445-9bf2-ffe57e788d0e.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/aa576e96-fc6f-4deb-a4c7-6277b5af90e1.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "2ed171f7-0f5f-4f1d-b3c1-efb9eb21fcd4",
+                "name": "af13137c-1561-4c1c-b85b-5ec8930f2b38___RS_LB 5425.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a6a59325-0959-4349-995b-ac7c5df7657c.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a0b466d0-40fa-499f-a45d-99fbf5cd5256.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "d8710600-05cd-43df-9200-227c0dd207ba",
+                "name": "b0137e92-ce1b-4523-95f0-7a827c206ee0___RS_LB 2913.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b571cea7-3527-4836-970b-7ee94880513a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d9aea043-26f7-45ac-8984-632771e1200b.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "8802c3e7-aa19-4a2a-a269-ecfb5783576e",
+                "name": "b0945b27-3331-4f03-b1c9-1465e12577aa___RS_LB 4355.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/7b294c2b-aab8-4357-9a15-1a5e6c68f97a.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/e66aaab7-aa7c-4c99-b99d-e01e78d6caee.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "c172a102-a0cc-43fb-bcf1-ca3485103c72",
+                "name": "b0e6c386-35dc-4982-acc6-f393c7f58c67___RS_LB 5036.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1c6e5b60-3fb3-4852-98da-8a29c4274cc3.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/c1149c0e-6480-47d2-ae11-3c261ad3afce.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "edc6e24d-f78d-4ad8-a3da-2a132f6a3df1",
+                "name": "b22a71a5-31a9-40c5-a3df-313e52748a61___RS_LB 4610.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1ff0265d-787e-4805-92c0-88f9071fe4c5.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/7fa7a3e9-bbaf-47e4-9609-11cd032c5c6f.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "1f8f98f3-0d19-428b-aa56-368ef0da42da",
+                "name": "b4e52186-de58-4c06-bbd2-2fb3dbeda13e___RS_LB 2655.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d1ae3c52-daf5-4d2f-99f4-6c870d2035bd.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/1cbcd4cd-8221-494f-b0d1-0940ea81edee.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "b2379537-cd21-4d17-b67c-e878a054c1ab",
+                "name": "b574ad16-1c07-4f70-bf1d-e2314d2dd81f___RS_LB 2849.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/fc96ac57-5eab-495b-91d7-f6930f649fc7.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/693ad10c-d779-462f-80fe-7f15faddd023.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "e7c3b941-b826-475d-bc41-b7efbb33e9c6",
+                "name": "b64e4518-147a-4a75-9f9b-33db8902aa12___RS_LB 3202.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/70f10b81-11dd-4c31-86df-fc3f60395e51.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/b67aee0e-9b42-417c-b131-f413895f1746.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "f557697b-ae00-4884-aec7-f6753588f200",
+                "name": "b89a9e11-b184-4b4d-bc56-5f27a2626982___RS_LB 2512.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/a8c3a98f-e79b-432f-8b25-c9c53c2cb0d5.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/bee261ad-82bc-40f5-93fa-a89f6e8649e7.png"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "uuid": "a10b5517-d0b5-4bbc-a6cc-cc8bf33b7d3b",
+                "name": "b9ad8d86-aadb-44b4-9bba-d6adb446afd7___RS_LB 5188.JPG",
+                "attributes": {
+                    "image": {
+                        "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/ab931996-cfb7-4fb6-be89-db20d40d41b3.jpg"
+                    }
+                },
+                "metadata": {},
+                "labels": {
+                    "ground-truth": {
+                        "label_status": "LABELED",
+                        "attributes": {
+                            "format_version": "0.1",
+                            "annotations": [
+                                {
+                                    "id": 1,
+                                    "category_id": 0
+                                }
+                            ],
+                            "segmentation_bitmap": {
+                                "url": "https://segmentsai-prod.s3.eu-west-2.amazonaws.com/assets/sumodkth/d9ae2639-69ac-42f8-91d5-17c07e1b3dce.png"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
