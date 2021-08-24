@@ -48,6 +48,10 @@ def percent_masked(img_path,num_pixels):
     total_mask =  im[2]
     percent_mask = (total_mask/num_pixels) * 1000 # Gives 18% insead of 8
     percent_mask = round(percent_mask, 3)
+    if percent_mask < 0:
+        percent_mask = 0.0
+    elif percent_mask >= 100:
+        percent_mask = 100
     return percent_mask
 
 
@@ -91,10 +95,10 @@ def overlay_img(Number_of_Health_level,image,height,width,percent_mask):
             
 
     #select the region that has to be overlaid
-    rectangle = cv2.rectangle(overlay, (0, 0), (height, width),colour_overlay, -1)
+    rect = cv2.rectangle(overlay, (0, 0), (height, width),colour_overlay, -1)
     alpha = 0.45 #Adding the transparency parameter
     #Performing image overlay
-    cv2.addWeighted(overlay, alpha, output, 1 - alpha,0, output)
+    output = cv2.addWeighted(overlay, alpha, output, 1 - alpha,0, output)
     #To Save the overlaid image
     # cv2.imwrite('Output'+str(alpha) +'.jpg', output)
 

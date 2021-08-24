@@ -1,0 +1,94 @@
+2021-06-23 03:25:09,682 - Time to load model initially :3.7376937866210938
+2021-06-23 03:25:14,570 - Response_time :4.886439323425293
+2021-06-23 03:25:14,571 - The severity index of the image is :0
+2021-06-23 03:25:14,571 - Spreader RPM28
+2021-06-23 03:25:15,874 - Response_time :1.3029983043670654
+2021-06-23 03:25:15,875 - The severity index of the image is :52
+2021-06-23 03:25:15,875 - Spreader RPM128
+2021-06-23 03:25:17,134 - Response_time :1.2586009502410889
+2021-06-23 03:25:17,135 - The severity index of the image is :43
+2021-06-23 03:25:17,135 - Spreader RPM107
+2021-06-23 03:25:18,389 - Response_time :1.2535626888275146
+2021-06-23 03:25:18,390 - The severity index of the image is :63
+2021-06-23 03:25:18,390 - Spreader RPM149
+2021-06-23 03:25:19,638 - Response_time :1.2468316555023193
+2021-06-23 03:25:19,638 - The severity index of the image is :63
+2021-06-23 03:25:19,643 - Spreader RPM149
+2021-06-23 03:25:20,893 - Response_time :1.2487447261810303
+2021-06-23 03:25:20,893 - The severity index of the image is :46
+2021-06-23 03:25:20,894 - Spreader RPM107
+2021-06-23 03:25:22,141 - Response_time :1.2472407817840576
+2021-06-23 03:25:22,142 - The severity index of the image is :6
+2021-06-23 03:25:22,142 - Spreader RPM28
+2021-06-23 03:25:23,389 - Response_time :1.2468574047088623
+2021-06-23 03:25:23,390 - The severity index of the image is :29
+2021-06-23 03:25:23,391 - Spreader RPM64
+2021-06-23 03:25:24,635 - Response_time :1.2445433139801025
+2021-06-23 03:25:24,636 - The severity index of the image is :31
+2021-06-23 03:25:24,636 - Spreader RPM85
+2021-06-23 03:25:25,882 - Response_time :1.2452001571655273
+2021-06-23 03:25:25,883 - The severity index of the image is :89
+2021-06-23 03:25:25,883 - Spreader RPM192
+2021-06-23 03:25:27,128 - Response_time :1.2442128658294678
+2021-06-23 03:25:27,129 - The severity index of the image is :58
+2021-06-23 03:25:27,129 - Spreader RPM128
+2021-06-23 03:25:28,377 - Response_time :1.2478368282318115
+2021-06-23 03:25:28,378 - The severity index of the image is :42
+2021-06-23 03:25:28,378 - Spreader RPM107
+2021-06-23 03:25:29,626 - Response_time :1.247499704360962
+2021-06-23 03:25:29,627 - The severity index of the image is :65
+2021-06-23 03:25:29,627 - Spreader RPM149
+2021-06-23 03:25:30,874 - Response_time :1.2463536262512207
+2021-06-23 03:25:30,874 - The severity index of the image is :77
+2021-06-23 03:25:30,879 - Spreader RPM171
+2021-06-23 03:25:32,128 - Response_time :1.2477922439575195
+2021-06-23 03:25:32,129 - The severity index of the image is :41
+2021-06-23 03:25:32,129 - Spreader RPM107
+2021-06-23 03:25:33,379 - Response_time :1.2494916915893555
+2021-06-23 03:25:33,379 - The severity index of the image is :11
+2021-06-23 03:25:33,380 - Spreader RPM43
+2021-06-23 03:25:34,626 - Response_time :1.2460534572601318
+2021-06-23 03:25:34,627 - The severity index of the image is :40
+2021-06-23 03:25:34,627 - Spreader RPM85
+2021-06-23 03:25:35,872 - Response_time :1.2444374561309814
+2021-06-23 03:25:35,873 - The severity index of the image is :87
+2021-06-23 03:25:35,878 - Spreader RPM192
+2021-06-23 03:25:37,125 - Response_time :1.2461256980895996
+2021-06-23 03:25:37,125 - The severity index of the image is :28
+2021-06-23 03:25:37,125 - Spreader RPM64
+2021-06-23 03:25:38,371 - Response_time :1.2454476356506348
+2021-06-23 03:25:38,372 - The severity index of the image is :75
+2021-06-23 03:25:38,372 - Spreader RPM171
+2021-06-23 03:25:39,619 - Response_time :1.2459354400634766
+2021-06-23 03:25:39,619 - The severity index of the image is :64
+2021-06-23 03:25:39,620 - Spreader RPM149
+2021-06-23 03:25:40,863 - Response_time :1.2427823543548584
+2021-06-23 03:25:40,863 - The severity index of the image is :18
+2021-06-23 03:25:40,864 - Spreader RPM43
+2021-06-23 03:25:42,110 - Response_time :1.2455215454101562
+2021-06-23 03:25:42,110 - The severity index of the image is :11
+2021-06-23 03:25:42,111 - Spreader RPM43
+2021-06-23 03:25:43,357 - Response_time :1.2461235523223877
+2021-06-23 03:25:43,358 - The severity index of the image is :95
+2021-06-23 03:25:43,358 - Spreader RPM214
+2021-06-23 03:25:44,605 - Response_time :1.2460503578186035
+2021-06-23 03:25:44,606 - The severity index of the image is :64
+2021-06-23 03:25:44,606 - Spreader RPM149
+2021-06-23 03:25:45,850 - Response_time :1.2431910037994385
+2021-06-23 03:25:45,850 - The severity index of the image is :38
+2021-06-23 03:25:45,851 - Spreader RPM85
+2021-06-23 03:25:47,095 - Response_time :1.244201898574829
+2021-06-23 03:25:47,096 - The severity index of the image is :91
+2021-06-23 03:25:47,096 - Spreader RPM214
+2021-06-23 03:25:48,342 - Response_time :1.2448091506958008
+2021-06-23 03:25:48,342 - The severity index of the image is :24
+2021-06-23 03:25:48,343 - Spreader RPM64
+2021-06-23 03:25:49,591 - Response_time :1.2475934028625488
+2021-06-23 03:25:49,591 - The severity index of the image is :44
+2021-06-23 03:25:49,592 - Spreader RPM107
+2021-06-23 03:25:50,839 - Response_time :1.2466521263122559
+2021-06-23 03:25:50,839 - The severity index of the image is :88
+2021-06-23 03:25:50,840 - Spreader RPM192
+2021-06-23 03:25:52,088 - Response_time :1.2480993270874023
+2021-06-23 03:25:52,089 - The severity index of the image is :66
+2021-06-23 03:25:52,089 - Spreader RPM149

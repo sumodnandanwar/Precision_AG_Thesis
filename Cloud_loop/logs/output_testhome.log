@@ -1,0 +1,100 @@
+2021-06-21 16:02:17,986 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:02:18,212 - <routeros.RouterOS object at 0x7fd678890c40>
+2021-06-21 16:03:05,324 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:03:05,483 - <routeros.RouterOS object at 0x7f57f64f2c40>
+2021-06-21 16:03:46,416 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:03:46,900 - <routeros.RouterOS object at 0x7f1cad36ec40>
+2021-06-21 16:04:54,677 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:04:54,720 - <routeros.RouterOS object at 0x7f8be19a6c40>
+2021-06-21 16:07:33,281 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:07:33,326 - <routeros.RouterOS object at 0x7fb0bf5bfc40>
+2021-06-21 16:07:51,454 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:07:51,479 - <routeros.RouterOS object at 0x7f596d17ec40>
+2021-06-21 16:08:20,543 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:08:20,585 - <routeros.RouterOS object at 0x7f3d75ad8c40>
+2021-06-21 16:09:03,699 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:09:03,977 - <routeros.RouterOS object at 0x7f54734bac40>
+2021-06-21 16:09:43,794 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:09:43,836 - <routeros.RouterOS object at 0x7fa679dd7c40>
+2021-06-21 16:10:06,364 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:10:06,514 - <routeros.RouterOS object at 0x7f85699e3c40>
+2021-06-21 16:12:00,090 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:12:00,175 - <routeros.RouterOS object at 0x7ff500028c40>
+2021-06-21 16:12:17,889 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:12:17,938 - <routeros.RouterOS object at 0x7f46484f5c40>
+2021-06-21 16:14:18,052 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:14:18,132 - <routeros.RouterOS object at 0x7f03c7347c40>
+2021-06-21 16:19:35,986 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:19:36,062 - <routeros.RouterOS object at 0x7f11ed8bac40>
+2021-06-21 16:20:12,072 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:20:12,142 - <routeros.RouterOS object at 0x7f8bedea0c40>
+2021-06-21 16:21:35,000 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:21:35,049 - <routeros.RouterOS object at 0x7f95051b3c40>
+2021-06-21 16:24:55,722 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:24:55,775 - <routeros.RouterOS object at 0x7f4cc408ac40>
+2021-06-21 16:25:44,148 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:25:44,193 - <routeros.RouterOS object at 0x7f7e7291bc40>
+2021-06-21 16:28:26,642 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:28:26,686 - <routeros.RouterOS object at 0x7f9c98d8eaf0>
+2021-06-21 16:32:11,248 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:32:11,290 - <routeros.RouterOS object at 0x7fe2eb513af0>
+2021-06-21 16:33:08,173 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:33:08,244 - <routeros.RouterOS object at 0x7f6fa2b97af0>
+2021-06-21 16:33:54,459 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:33:54,530 - <routeros.RouterOS object at 0x7f0b06d2baf0>
+2021-06-21 16:34:30,996 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:34:31,064 - <routeros.RouterOS object at 0x7f1d926fbaf0>
+2021-06-21 16:35:49,687 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:35:49,768 - <routeros.RouterOS object at 0x7fa85badbaf0>
+2021-06-21 16:36:59,958 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:37:00,032 - <routeros.RouterOS object at 0x7fd3f2affaf0>
+2021-06-21 16:38:14,879 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:38:14,961 - <routeros.RouterOS object at 0x7f2dd0615af0>
+2021-06-21 16:40:23,917 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:40:24,012 - <routeros.RouterOS object at 0x7f0c4ff04af0>
+2021-06-21 16:41:07,306 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:41:07,413 - <routeros.RouterOS object at 0x7f65cfa5faf0>
+2021-06-21 16:41:56,763 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:41:56,809 - <routeros.RouterOS object at 0x7f75e4833af0>
+2021-06-21 16:44:38,222 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 16:44:38,265 - <routeros.RouterOS object at 0x7f0ae3273b20>
+2021-06-21 17:00:28,942 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 17:00:28,986 - <routeros.RouterOS object at 0x7f7a6424baf0>
+2021-06-21 20:05:02,744 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:05:02,744 - WARNING: Access point not accessible, [Errno 101] Network is unreachable
+2021-06-21 20:05:17,403 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:05:18,416 - <routeros.RouterOS object at 0x7fa4e562daf0>
+2021-06-21 20:06:02,578 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:06:02,717 - <routeros.RouterOS object at 0x7f280a75caf0>
+2021-06-21 20:06:20,166 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:06:20,473 - <routeros.RouterOS object at 0x7f76c4d3faf0>
+2021-06-21 20:06:48,872 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:06:49,000 - <routeros.RouterOS object at 0x7f14829b7af0>
+2021-06-21 20:08:33,951 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:08:34,108 - <routeros.RouterOS object at 0x7fd445f4baf0>
+2021-06-21 20:09:21,236 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:09:21,510 - <routeros.RouterOS object at 0x7fd5eaad6af0>
+2021-06-21 20:11:19,348 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:11:19,478 - <routeros.RouterOS object at 0x7ffb053d8af0>
+2021-06-21 20:11:42,275 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:11:42,720 - <routeros.RouterOS object at 0x7fe6bc0cdaf0>
+2021-06-21 20:12:40,075 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:12:40,279 - <routeros.RouterOS object at 0x7fd4809c9af0>
+2021-06-21 20:13:04,568 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:13:04,607 - <routeros.RouterOS object at 0x7f83a5dc0af0>
+2021-06-21 20:13:29,452 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:13:29,742 - <routeros.RouterOS object at 0x7f9d83fc5af0>
+2021-06-21 20:13:42,746 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:13:42,798 - <routeros.RouterOS object at 0x7fcc700ceaf0>
+2021-06-21 20:14:04,004 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:14:04,053 - <routeros.RouterOS object at 0x7f1489a43af0>
+2021-06-21 20:14:54,557 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:14:54,725 - <routeros.RouterOS object at 0x7fea5cd60af0>
+2021-06-21 20:16:02,083 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:16:02,255 - <routeros.RouterOS object at 0x7f6fc0ce0af0>
+2021-06-21 20:17:20,215 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:17:20,647 - <routeros.RouterOS object at 0x7fb6248c7af0>
+2021-06-21 20:20:25,296 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:20:25,470 - <routeros.RouterOS object at 0x7f57a765caf0>
+2021-06-21 20:25:22,080 - Connecting to RouterOS - Wait up to 2 seconds
+2021-06-21 20:25:22,462 - <routeros.RouterOS object at 0x7f7959e93af0>
